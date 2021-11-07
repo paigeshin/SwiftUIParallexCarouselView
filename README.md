@@ -1,3 +1,4 @@
+```swift
 //
 //  ContentView.swift
 //  MoviesParallaxLBTA
@@ -77,3 +78,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+```
